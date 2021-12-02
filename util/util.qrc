@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="welcomescreen">
+    <file>img/welcome-screen.jpeg</file>
+  </qresource>
+  <qresource prefix="booking-system">
+    <file>img/bg-screen.jpeg</file>
+  </qresource>
+  <qresource prefix="lupapassword">
+    <file>img/pexels-photo-7819725.jpeg</file>
+  </qresource>
+  <qresource prefix="registerscreen">
+    <file>img/bg-register.jpeg</file>
+  </qresource>
+  <qresource prefix="loginscreen">
+    <file>img/bg-login.jpeg</file>
+  </qresource>
+  <qresource prefix="logo">
+    <file>img/logo.png</file>
+  </qresource>
+</RCC>
