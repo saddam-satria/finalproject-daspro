@@ -78,7 +78,7 @@ class BookingScreen(QtWidgets.QMainWindow):
                     kodeBooking = booking.kodeBooking()
                     booking.booknow(nama,email,nohp,jadwal,kodeBooking,self.username,choice)
                     self.hasil.setTextInteractionFlags(Qt.TextSelectableByMouse)   
-                    self.hasil.setText(f"kode booking adalah {kodeBooking}, mohon di simpan ") 
+                    self.hasil.setText(f"simpan kode berikut {kodeBooking}") 
                     self.hasil.setStyleSheet('font-weight: 500;font-size: 18px;color: green;')
 
 class CekKode(QtWidgets.QMainWindow):
