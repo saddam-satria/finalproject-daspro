@@ -177,7 +177,7 @@ class RegisterScreen(QtWidgets.QMainWindow):
         email = self.input_email.text()
         username = self.input_username.text() 
         password = self.input_password.text() 
-        print(self.list_price_list)
+      
 
         validate = { 
             "username": r"^[a-z0-9]+$",
