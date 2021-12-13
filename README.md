@@ -2,6 +2,9 @@
 
 GUI desktop application with python for final exam at my university
 
+<code><img src="https://raw.githubusercontent.com/saddam-satria/finalproject-daspro/master/welcomescreen.png"/></code>
+
+
 ## Python Download
 
 if you dont have python interpreter, please download follow link below
